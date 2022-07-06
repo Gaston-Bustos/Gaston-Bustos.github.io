@@ -1,0 +1,79 @@
+.azul{
+    border: 2px dashed red;
+    width: 500px;
+    height: 400px;
+    margin: 5em auto;
+    background-color: rgb(243, 145, 243);
+    position: absolute;
+    left: 600px;
+    bottom: 100px;
+    
+    z-index: 4;
+    
+}
+
+
+
+.verde{
+    position: relative;
+    width: 600px;
+    height: 100px;
+    border: 1px dashed grey;
+    background-color: greenyellow;
+    left: 470px;
+    bottom: px;
+    top: 35px;
+    opacity: 0.8;
+    z-index: 8;
+}
+
+.div2{
+    position: relative;
+    width: 600px;
+    height: 100px;
+    border: 1px dashed grey;
+    background-color: greenyellow;
+    left: 470px;
+    bottom: 50px;
+    top: 280px;
+    opacity: 0.8;
+    z-index: 2;
+
+}
+.amarillo{
+    position: relative;
+    width: 430px;
+    height: 100px;
+    border: 1px dashed grey;
+    background-color: yellow;
+    left: 632px;
+    bottom: 90px;
+    opacity: 0.7;   
+    z-index: 6;
+}
+
+.div5{
+    position: relative;
+    width: 430px;
+    height: 100px;
+    border: 1px dashed grey;
+    background-color: yellow;
+    left: 632px;
+    bottom: -30px;
+    opacity: 0.7;   
+    z-index: 4;
+
+}
+
+.div6{
+    position: absolute;
+    
+    width: 200px;
+    height: 315px;
+    border: 1px dashed black;
+    background-color: rgb(190, 63, 190);
+    left: 850px;
+    bottom: 241px;
+    opacity: 0.6;
+    z-index: 5;
+}
